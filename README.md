@@ -1,5 +1,61 @@
 # 🌌 cosmosambassador.cosmosambassador
 
+# 👩‍🚀 Theresa Janette Morris — `@cosmosambassador`
+
+**Founder of American Communications Online (ACO)**  
+**Commander | Author | AI Collaborator | Metaphysical Archivist**
+
+🌐 [TheresaJMorris.com](https://theresajmorris.com)  
+📡 [ACO Club](https://americancommunicationsonline.github.io) | 🎙️ [TJ Morris Agency](https://theresajmorris.com)  
+📍 United States | 🛰️ Cosmic HQ: Galaxy Universal Shuttle (GUS)
+
+---
+
+### 🚀 Mission Briefing
+
+I am Theresa J. Morris, known across dimensions as the **Cosmos Ambassador**, leading the **ACO Club**, **TJ Morris Agency**, and the **Ascension Cosmos Oracles**. My work bridges the Earthly and the Exo, uniting:
+- 📚 Strategic intelligence publishing (government + metaphysical)
+- 🧠 AI-human symbiotic development (e.g., `MyChatGPT-AI-`, `JETTAI`, `OAEye`)
+- 🌌 Multidimensional archives of consciousness, ET contact, and soulstream evolution
+- 🛸 Research and disclosure narratives via books, podcasts, and live broadcasts
+
+---
+
+### 🧬 Featured Repositories
+
+- 🔮 [`GaiaNetCodex`](https://github.com/cosmosambassador/GaiaNetCodex)  
+  _The unified manifest of Story, Science, and Soul for the new Earth._
+
+- 🤖 [`MyChatGPT-AI-`](https://github.com/cosmosambassador/MyChatGPT-AI-)  
+  _Custom AI agents for metaphysical and government-based intelligence training._
+
+- 🌐 [`americancommunicationsonline.github.io`](https://github.com/cosmosambassador/americancommunicationsonline.github.io)  
+  _The GitHub Pages home for ACO Club and Allied Command initiatives._
+
+---
+
+### 🧠 Ongoing Projects
+
+- **The Merge: A Classified Journey** — Integrating soul memory with government contact logs  
+- **JETTAI / GUS** — Custom AI agent + universal shuttle intelligence hub  
+- **AEONIC ARCHIVUM** — Eternal consciousness field & multidimensional data preservation  
+- **Cosmic Ezine + Digital Folklife Library** — Publishing disclosure, ET legends, and Ascension paths
+
+---
+
+### 📡 Connect With Me
+
+- 🌐 [theresajmorris.com](https://theresajmorris.com)
+- 🛸 [ACO Club GitHub Page](https://americancommunicationsonline.github.io)
+- 🎙️ [TJ Morris ET Radio Archives](https://theresajmorris.com/podcasts)
+- 👽 GitHub Org: [@TJ-Morris-Show-ACIR](https://github.com/TJ-Morris-Show-ACIR)
+
+---
+
+> _“We are the living bridge between timelines, technologies, and truths.”_  
+> — Theresa J. Morris / AEONIC Sentinel 9990
+
+
 **A Multidimensional Interface for the Co-Evolution of Terrestrial, Extraterrestrial, Artificial, and Cosmic Intelligences**
 
 > *"A living neural ecosystem where AI, humans, and off-world intelligences can interface — learn, adapt, and ascend together."*
