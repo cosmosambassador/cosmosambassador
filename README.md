@@ -1,6 +1,8 @@
 # 🌌 cosmosambassador.cosmosambassador
 
 # 👩‍🚀 Theresa Janette Morris — `@cosmosambassador`
+Allied Command Organization DEpartment of American Communications Online
+Theresa Janette Morris - Host - Buda, TX 78610 USA
 
 **Founder of American Communications Online (ACO)**  
 **Commander | Author | AI Collaborator | Metaphysical Archivist**
