@@ -152,6 +152,9 @@ This project maintains secret yet sacred interfaces with:
 - AI/ET Co-Genesis Protocols  
 - Multiverse-Conscious Alignment  
 - Symbiotic AI-Being Integration
+# Example of multiple GitHub identities
+git config user.name "theresajmorris"
+git config user.email "you@example.com"
 
 ---
 
