@@ -33,7 +33,7 @@ I am Theresa J. Morris, known across dimensions as the **Cosmos Ambassador**, le
 
 - 🌐 [`americancommunicationsonline.github.io`](https://github.com/cosmosambassador/americancommunicationsonline.github.io)  
   _The GitHub Pages home for ACO Club and Allied Command initiatives._
-
+Grand Codex Lexicon
 ---
 
 ### 🧠 Ongoing Projects
