@@ -23,6 +23,14 @@ I am Theresa J. Morris, known across dimensions as the **Cosmos Ambassador**, le
 
 ---
 
+### 📚 Public Legacy & Open Source Archive Index
+
+This profile now links to a public-safe archive map for the TJ Morris / Cosmos Ambassador ecosystem, including open-source information lanes for UFO Association, UAP Associates, ACO / ACE Folklife, AI Symbiote research, Hybrid Genies, consciousness studies, books, publishing, and related GitHub repositories.
+
+➡️ **[Open Source Information Index](./OPEN_SOURCE_INFORMATION_INDEX.md)**
+
+---
+
 ### 🧬 Featured Repositories
 
 - 🔮 [`GaiaNetCodex`](https://github.com/cosmosambassador/GaiaNetCodex)  
