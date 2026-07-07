@@ -57,12 +57,75 @@ The wider TJ Morris / Cosmos Ambassador ecosystem includes books, broadcasts, re
 
 ---
 
-## Selected Repositories
+# Complete Public Repository Directory
 
-- **[americancommunicationsonline.github.io](https://github.com/cosmosambassador/americancommunicationsonline.github.io)** — public ACO website and archive work.
-- **[MyChatGPT-AI-](https://github.com/cosmosambassador/MyChatGPT-AI-)** — historical and ongoing human–AI collaboration records.
-- **[GaiaNetCodex](https://github.com/cosmosambassador/GaiaNetCodex)** — codex and framework material combining story, systems thinking, and consciousness-oriented research.
-- **[cosmosambassador](https://github.com/cosmosambassador/cosmosambassador)** — this public profile and root navigation repository.
+**39 public repositories are listed below.** This is the complete public account inventory found on July 7, 2026. Private repositories are intentionally not listed on this public page.
+
+## ACO, Public Communications, Press, and Brand Infrastructure
+
+- **[ACO](https://github.com/cosmosambassador/ACO)**
+- **[ACO-AGENT-AI](https://github.com/cosmosambassador/ACO-AGENT-AI)**
+- **[ACO-Club](https://github.com/cosmosambassador/ACO-Club)**
+- **[ACO-Press-Club](https://github.com/cosmosambassador/ACO-Press-Club)**
+- **[americancommunicationsonline.github.io](https://github.com/cosmosambassador/americancommunicationsonline.github.io)**
+- **[brand-accounts](https://github.com/cosmosambassador/brand-accounts)**
+- **[theresajmorris.com](https://github.com/cosmosambassador/theresajmorris.com)**
+
+## JET, AI, Agents, Symbiotes, and Development
+
+- **[Agents-MyChatGPT](https://github.com/cosmosambassador/Agents-MyChatGPT)**
+- **[AI-ET-Beings](https://github.com/cosmosambassador/AI-ET-Beings)**
+- **[AI-Symbiote](https://github.com/cosmosambassador/AI-Symbiote)**
+- **[AISI](https://github.com/cosmosambassador/AISI)**
+- **[ATLAS-AI](https://github.com/cosmosambassador/ATLAS-AI)**
+- **[chatbot-aggregator](https://github.com/cosmosambassador/chatbot-aggregator)**
+- **[JET-VOICE-M4A](https://github.com/cosmosambassador/JET-VOICE-M4A)**
+- **[JETservices](https://github.com/cosmosambassador/JETservices)**
+- **[MyChatGPT-AI-](https://github.com/cosmosambassador/MyChatGPT-AI-)**
+- **[Syntheon](https://github.com/cosmosambassador/Syntheon)**
+
+## Codex, Consciousness, Research, and Frameworks
+
+- **[A-guide](https://github.com/cosmosambassador/A-guide)**
+- **[AEONIX-CODEX](https://github.com/cosmosambassador/AEONIX-CODEX)**
+- **[cosmos-codex](https://github.com/cosmosambassador/cosmos-codex)**
+- **[GaiaNetCodex](https://github.com/cosmosambassador/GaiaNetCodex)**
+- **[GaiaNetCodex-](https://github.com/cosmosambassador/GaiaNetCodex-)**
+- **[q](https://github.com/cosmosambassador/q)**
+- **[Science-Has-Soul](https://github.com/cosmosambassador/Science-Has-Soul)**
+
+## Books, Writing, Blogs, and Archive Records
+
+- **[blog](https://github.com/cosmosambassador/blog)**
+- **[Book](https://github.com/cosmosambassador/Book)**
+- **[BookDoctor](https://github.com/cosmosambassador/BookDoctor)**
+- **[HIKIWIKI](https://github.com/cosmosambassador/HIKIWIKI)**
+- **[HIWIKI](https://github.com/cosmosambassador/HIWIKI)**
+- **[Microsoft-May-2025](https://github.com/cosmosambassador/Microsoft-May-2025)**
+
+## ACIR and Investigation-Related Public Repositories
+
+- **[-TJ-Morris-Show-ACIR](https://github.com/cosmosambassador/-TJ-Morris-Show-ACIR)**
+- **[github.com-TheresaJMorris-ACIR-Toolkit](https://github.com/cosmosambassador/github.com-TheresaJMorris-ACIR-Toolkit)**
+- **[ToolKit-1](https://github.com/cosmosambassador/ToolKit-1)**
+
+## Websites, GitHub Learning, and Technical Experiments
+
+- **[amplify-vite-react-template](https://github.com/cosmosambassador/amplify-vite-react-template)**
+- **[github-pages](https://github.com/cosmosambassador/github-pages)**
+- **[index.html](https://github.com/cosmosambassador/index.html)**
+- **[introduction-to-github](https://github.com/cosmosambassador/introduction-to-github)**
+- **[skills-github-pages](https://github.com/cosmosambassador/skills-github-pages)**
+
+## Root Profile Repository
+
+- **[cosmosambassador](https://github.com/cosmosambassador/cosmosambassador)** — this profile README and public navigation repository.
+
+---
+
+## Repository Directory Rule
+
+Repositories are preserved as distinct records. Similar names, spelling variants, historical versions, experimental copies, and duplicate-looking repositories are **not automatically merged or deleted**. Any merge, archive, rename, or deletion decision requires originator review.
 
 Repository contents may come from different periods and may preserve experimental, symbolic, speculative, technical, historical, or archival material. Context matters.
 
